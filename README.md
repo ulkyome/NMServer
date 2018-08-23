@@ -5,3 +5,9 @@ you can set the startup parameters separately for example, you can set the -serv
 post name userID and password
 
 http://forum.ragezone.com/f943/nmserver-source-1138191/
+
+
+
+
+https://golang.org/dl/
+https://sourceforge.net/projects/liteide/
